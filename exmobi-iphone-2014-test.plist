@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.com.fiberhome.nj.exmobi.sdcmcc2014</string>
+				<string>gaeaclient-ios-126145</string>
 				<key>bundle-version</key>
-				<string>5.3.2.0</string>
+				<string>5.4.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
